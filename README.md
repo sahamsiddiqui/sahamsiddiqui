@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saham
-- 👀 I’m interested in Data Analytics, Business intelligence, and Project management
-- 🌱 I’m currently learning more about Web scraping and data collection methods
-- 💞️ I’m also about to complete my Project Management Certification 
+- 👀 I’m interested in Data everything 😸
+- 🌱 I’m currently learning about optimizing Analytics workflow
+- 🥇 Working on dbt and data engineering Certification 
 - 📫 You can reach me at sahamsiddiqui@gmail.com
 
 <!---
