@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saham
 - 👀 I’m interested in Data everything 😸
 - 🌱 I’m currently learning about optimizing Analytics workflow
-- 🥇 Working on dbt and data engineering Certification 
+- 🥇 Working on more data engineering and analytics projects 
 - 📫 You can reach me at sahamsiddiqui@gmail.com
 
 <!---
